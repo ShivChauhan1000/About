@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ShivChauhan1000
+- 👋 Hi, I’m @Shiv Chauhan
 - 👀 I’m interested in Automation Testing 
-- 🌱 I’m currently learning Java with Selenium 
-- 💞️ I’m looking to collaborate on Qa Testing 
+- 💞️ I’m looking to collaborate with Qa Automation Team 
 - 📫 How to reach me - itsmeshivchauhan@gmail.com
 - 😄 Pronouns: Shiv
 
