@@ -2,6 +2,7 @@
 - 👀 I’m interested in Automation Testing 
 - 💞️ I’m looking to collaborate with Qa Automation Team 
 - 📫 How to reach me - itsmeshivchauhan@gmail.com
+- 🚀 Linkedin Profile - [ShivLinkedin](www.linkedin.com/in/shiv-chauhan-043628269)
 - 😄 Pronouns: Shiv
 
 <!---
